@@ -1,2 +1,2 @@
 # hello-world
-iam pavani i'm practicing git hub
+iam pavani i'm practicing on git hub
